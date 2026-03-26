@@ -1,8 +1,14 @@
-# witchery-WEBGL
-Demo Build
+# demo-WEBGL
+Demo Builds
 
+Sidescroller
+WASD movement or on screen controls
+
+Card Game
 Drag card into the center to play & drag cards to the bottom or top edge to discard.
-Cards can only be played when you have enough energy, energy can be gained through playing certain cards or through discarding them.
 
-Play the demo:
-https://jahabl.github.io/witchery-WEBGL/
+Top Down
+WASD movement or on screen controls
+
+Play the demos:
+https://jahabl.github.io/demo-WEBGL/
