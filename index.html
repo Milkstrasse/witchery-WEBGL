@@ -14,13 +14,18 @@
 <body>
   <main>
     <h1><a href="index.html">Home</a></h1>
-    <span onclick="openDemo('demo1')">demo1 <i class="fas fa-external-link-alt"></i></span><br>
-    <span onclick="openDemo('demo2')">demo2 <i class="fas fa-external-link-alt"></i></span>
+    <span onclick="openDemo('sidescroller')">sidescroller <i class="fas fa-external-link-alt"></i></span><br>
+    <span onclick="openDemo('cardgame')">card game <i class="fas fa-external-link-alt"></i></span>
   </main>
 
   <script>
-    function openDemo(name) {
-      window.open(name + "/index.html", "demo", "height=667,width=375");
+    function openVerticalDemo(name) {
+      window.open(name + "/index.html", "name", "height=667,width=375");
+    }
+  </script>
+  <script>
+    function openHorizontalDemo(name) {
+      window.open(name + "/index.html", "name", "height=375,width=667");
     }
   </script>
 </body>
