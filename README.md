@@ -1,13 +1,13 @@
 # demo-WEBGL
 Demo Builds
 
-Sidescroller
+Sidescroller:
 WASD movement or on screen controls
 
-Card Game
+Card Game:
 Drag card into the center to play & drag cards to the bottom or top edge to discard.
 
-Top Down
+Top Down:
 WASD movement or on screen controls
 
 Play the demos:
